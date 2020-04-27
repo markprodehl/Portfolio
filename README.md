@@ -12,4 +12,4 @@ Make a responsive website to host my web development portfolio and showcase myse
 https://github.com/markprodehl
 
 ## Link to deployed application: 
-https://markprodehl.github.io/Developer-Portfolio/portfolio.html
+https://markprodehl.github.io/Portfolio/index.html
