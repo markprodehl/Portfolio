@@ -1,0 +1,54 @@
+.navbar-brand {
+    font-size: 35px !important;
+}
+
+.images {
+    width: 270px;
+    height: 225px;
+    margin: 0 auto;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+#message {
+    width: 100%;
+    display: inline-block;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+    margin: 0 auto;
+}
+
+#name-email {
+    width: 100%;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+#titles {
+    font-size: 30px;
+    position: relative;
+    background-color: white;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #666666;
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: 8px solid #4aaaa5;
+}
+
+.background {
+    background-color: black;
+}
